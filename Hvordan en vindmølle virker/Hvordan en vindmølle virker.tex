@@ -1,0 +1,27 @@
+\input{Setup/preamble_ida16.tex}
+\usepackage{wrapfig}
+\begin{document}
+Regeringens målsætning om $100 \%$ vedvarende energi i Danmark inden 2050 skal primært fuldføres med vinden som energikilde. 
+
+\begin{wrapfigure}{r}{8.5cm}
+\includegraphics[width=8.5cm]{billeder/vindgraf}
+\caption{Figuren viser en graf over vindenergiens andel af den samlede energiproduktion \citep{2}}
+\label{fig:vindgraf}
+\end{wrapfigure} 
+
+Det ser også lyst ud, da energiproduktionen fra vindenergi i Danmark er vokset støt siden 2009. Her producerede de danske vindmøller $19,4 \%$ af den samlede danske energi produktion. Hvorimod at de i 2015 stod for hele $42,1 \%$ af den samlede produktion, hvilket kan ses på figur \ref{fig:vindgraf}. I 2016 led produktion et lille fald til $37 \%$, hvilket var forårsaget af en væsentlig mindre mængde blæst end årene forinden. Fremover vil der dog komme flere vindmølleparker, hvilket få vindenergiens andel i den samlede produktion til at stige. \\
+Udnyttelsen af vindenergi i Danmark sker primært med vindmøller af typen horisontal akslede hurtigløbere.
+En hurtigløbere er opbygget af flere forskellige komponenter, hvor de vigtigste heriblandt er rotoren, gearkasen, generatoren, lav- og højhastighedsakslen. Det er disse 5, der er med til at omdanne vindens kinetiske energi til en elektrisk effekt, som kan udnyttes af den danske elforbruger. \\
+Processen starter med at vindmøllens vinger opfanger vinden. Når vinden passerer vingerne, kommer der en trykforskel omkring vingen, som giver en opdrift, hvilket får vingerne til at rotere. En grundigere forklaring af hvorfor vingerne begynder at rotere findes i teori afsnittet under Bernoullis ligning. \\
+Når vingerne begynder at rotere, har vinden afgivet noget af sin kinetiske energi til vingerne, hvor den er blevet omdannet til rotationsenergi. Vingerne er med rotoren forbundet til en lavhastighedsaksel, som med rotationsenergien fra vingerne får en gearkasse til at rotere. Gearkassen er forbundet videre til en højhastighedsaksel, som på grund af gearkassen roterer omtrent 50 gange så hurtigt som lavhastighedsakslen. Højhastighedsakslen driver vindmøllens generator, hvor induktion omdanner rotationsenergien til en elektrisk effekt. Vindmøllens samlede opbygning og hvordan de forskellige komponenter er forbundet kan ses på figur \ref{fig:vindmollen}.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.80\textwidth]{billeder/vindmollen}
+\caption{Figuren viser komponenterne i en hurtig løber \citep{windturbine}.}
+\label{fig:vindmollen}
+\end{figure}
+
+På figur \ref{fig:vindmollen} ses også vindmøllens krøjemotor. Det er denne motor, som drejer vindmøllehuset, så den dens vinger står vinkelret mod vinden. Det er nemlig i denne position, at vindmøllen er mest effektiv. Hvornår og hvor meget vindhuset skal drejes for at indstille sig efter vinden afgøres af vindmøllens controller. Denne aflæser vindmøllens vindfane, begge kan ses på figur \ref{fig:vindmollen}. Selve rotorbladene kan også rotere en smule for at være i stand til enten at fange vinden bedre eller slippe lidt ud af den i tilfælde af overproduktion. 
+
+\end{document}
