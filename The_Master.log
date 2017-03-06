@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.12)  6 MAR 2017 10:30
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.12)  6 MAR 2017 12:08
 entering extended mode
 **The_Master.tex
 (C:\Users\thoma\Desktop\P2\The_Master.tex
@@ -1671,71 +1671,74 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pbk.fd")
 (C:\Users\thoma\Desktop\P2\Problemanalyse/2050_plan.tex
-<Billeder/Cirkeldiagram_probana.jpg, id=7, 360.74776pt x 197.538pt>
+<Billeder/Cirkeldiagram_probana.jpg, id=16, 360.74776pt x 197.538pt>
 File: Billeder/Cirkeldiagram_probana.jpg Graphic file (type jpg)
 
 <use Billeder/Cirkeldiagram_probana.jpg>
 Package pdftex.def Info: Billeder/Cirkeldiagram_probana.jpg used on input line 
-4.
-(pdftex.def)             Requested size: 180.37343pt x 98.76875pt.
+6.
+(pdftex.def)             Requested size: 306.63702pt x 167.90808pt.
 
-<Billeder/Baeredygtige_energiiniti.jpg, id=8, 271.61475pt x 284.262pt>
+<Billeder/Baeredygtige_energiiniti.jpg, id=17, 271.61475pt x 284.262pt>
 File: Billeder/Baeredygtige_energiiniti.jpg Graphic file (type jpg)
 
 <use Billeder/Baeredygtige_energiiniti.jpg>
 Package pdftex.def Info: Billeder/Baeredygtige_energiiniti.jpg used on input li
-ne 8.
-(pdftex.def)             Requested size: 135.80704pt x 142.13065pt.
-) [1
+ne 12.
+(pdftex.def)             Requested size: 230.87361pt x 241.62383pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/thoma/Desktop/P2
-/Billeder/Cirkeldiagram_probana.jpg> <C:/Users/thoma/Desktop/P2/Billeder/Baered
-ygtige_energiiniti.jpg>]
+/Billeder/Cirkeldiagram_probana.jpg>]) [2 <C:/Users/thoma/Desktop/P2/Billeder/B
+aeredygtige_energiiniti.jpg>]
 (C:\Users\thoma\Desktop\P2\Problemanalyse/Effektivisering_del_1.tex
-<Billeder/vindgraf.jpg, id=17, 346.29375pt x 211.54031pt>
+<Billeder/vindgraf.jpg, id=37, 346.29375pt x 211.54031pt>
 File: Billeder/vindgraf.jpg Graphic file (type jpg)
 
 <use Billeder/vindgraf.jpg>
-Package pdftex.def Info: Billeder/vindgraf.jpg used on input line 4.
+Package pdftex.def Info: Billeder/vindgraf.jpg used on input line 5.
 (pdftex.def)             Requested size: 241.84842pt x 147.7415pt.
 
 
-Package natbib Warning: Citation `2' on page 2 undefined on input line 5.
+Package natbib Warning: Citation `2' on page 3 undefined on input line 6.
 
 
-Package natbib Warning: Citation `2' on page 2 undefined on input line 5.
+Package natbib Warning: Citation `2' on page 3 undefined on input line 6.
 
-<Billeder/vindmollen.png, id=20, 474.77374pt x 454.69875pt>
+<Billeder/vindmollen.png, id=40, 474.77374pt x 454.69875pt>
 File: Billeder/vindmollen.png Graphic file (type png)
 
 <use Billeder/vindmollen.png>
-Package pdftex.def Info: Billeder/vindmollen.png used on input line 17.
+Package pdftex.def Info: Billeder/vindmollen.png used on input line 18.
 (pdftex.def)             Requested size: 340.8013pt x 326.40457pt.
 
 
-Package natbib Warning: Citation `windturbine' on page 2 undefined on input lin
-e 18.
+Package natbib Warning: Citation `windturbine' on page 3 undefined on input lin
+e 19.
 
 
-Package natbib Warning: Citation `windturbine' on page 2 undefined on input lin
-e 18.
+Package natbib Warning: Citation `windturbine' on page 3 undefined on input lin
+e 19.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2 <C:/Users/thoma/Desktop/P2/Billeder/vindgraf.jpg>]
-Underfull \hbox (badness 1675) in paragraph at lines 22--27
-[]\T1/cmr/m/n/10.95 På figur [][]1.2[][] ses også vindmøllens krøjemotor. Det e
+ [3 <C:/Users/thoma/Desktop/P2/Billeder/vindgraf.jpg>]
+Underfull \hbox (badness 1675) in paragraph at lines 23--28
+[]\T1/cmr/m/n/10.95 På figur [][]1.4[][] ses også vindmøllens krøjemotor. Det e
 r denne motor, som drejer
  []
 
 )
 Underfull \vbox (badness 1845) has occurred while \output is active []
 
- [3 <C:/Users/thoma/Desktop/P2/Billeder/vindmollen.png>] [4]
+ [4 <C:/Users/thoma/Desktop/P2/Billeder/vindmollen.png>] [5]
 (C:\Users\thoma\Desktop\P2\Problemanalyse/Stoerrelse_Stoej.tex
-<Billeder/Vindmoelle_udvikling.png, id=46, 503.481pt x 291.489pt>
+<Billeder/Vindmoelle_udvikling.png, id=62, 503.481pt x 291.489pt>
 File: Billeder/Vindmoelle_udvikling.png Graphic file (type png)
 
 <use Billeder/Vindmoelle_udvikling.png>
@@ -1770,13 +1773,13 @@ Missing character: There is no Ø in font cmr10!
 
 Underfull \vbox (badness 2671) has occurred while \output is active []
 
- [5 <C:/Users/thoma/Desktop/P2/Billeder/Vindmoelle_udvikling.png>]
+ [6 <C:/Users/thoma/Desktop/P2/Billeder/Vindmoelle_udvikling.png>]
 Underfull \hbox (badness 1052) in paragraph at lines 27--30
 \T1/cmr/m/n/10.95 mellem Vestas Wind Systems A/S og Mitsubishi Heavy Industries
  (MHI). Denne
  []
 
-[6] <Billeder/Stoejgraenser.png, id=60, 220.4235pt x 187.902pt>
+[7] <Billeder/Stoejgraenser.png, id=77, 220.4235pt x 187.902pt>
 File: Billeder/Stoejgraenser.png Graphic file (type png)
 
 <use Billeder/Stoejgraenser.png>
@@ -1802,15 +1805,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--50
 
  []
 
-) [7 <C:/Users/thoma/Desktop/P2/Billeder/Stoejgraenser.png>] [8]
+) [8 <C:/Users/thoma/Desktop/P2/Billeder/Stoejgraenser.png>] [9]
 (C:\Users\thoma\Desktop\P2\Problemanalyse/Ulemper_Relation_til_samfund.tex)
-[9] (C:\Users\thoma\Desktop\P2\Problemanalyse/case_og_intro_til_invelox.tex
+[10] (C:\Users\thoma\Desktop\P2\Problemanalyse/case_og_intro_til_invelox.tex
 Underfull \hbox (badness 1168) in paragraph at lines 3--6
 []\T1/cmr/m/n/10.95 Slagelse kommune har investeret i Invelox i forbindelse med
  en lokal produktion
  []
 
-<Billeder/invelox_design.jpg, id=75, 493.6041pt x 297.0297pt>
+<Billeder/invelox_design.jpg, id=91, 493.6041pt x 297.0297pt>
 File: Billeder/invelox_design.jpg Graphic file (type jpg)
 
 <use Billeder/invelox_design.jpg>
@@ -1819,47 +1822,46 @@ Package pdftex.def Info: Billeder/invelox_design.jpg used on input line 13.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10 <C:/Users/thoma/Desktop/P2/Billeder/invelox_design.jpg>] [11]
+ [11 <C:/Users/thoma/Desktop/P2/Billeder/invelox_design.jpg>] [12]
 (C:\Users\thoma\Desktop\P2\Problemanalyse/Relation_til_ostemad.tex)
 
 Package natbib Warning: There were undefined citations.
 
-[12]
+[13]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
  (C:\Users\thoma\Desktop\P2\The_Master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 18.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18.
 Package rerunfilecheck Info: File `The_Master.out' has not changed.
-(rerunfilecheck)             Checksum: 72E4A8F966FB218D87E02014F7E973FC;50.
+(rerunfilecheck)             Checksum: CE52094083D8E4928D96A045A468DE4F;194.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 18.
  ) 
 Here is how much of TeX's memory you used:
- 23902 strings out of 493921
- 422072 string characters out of 3144875
+ 23911 strings out of 493921
+ 422171 string characters out of 3144875
  624992 words of memory out of 3000000
- 26784 multiletter control sequences out of 15000+200000
- 18585 words of font info for 53 fonts, out of 3000000 for 9000
+ 26788 multiletter control sequences out of 15000+200000
+ 18923 words of font info for 53 fonts, out of 3000000 for 9000
  843 hyphenation exceptions out of 8191
- 44i,12n,78p,1330b,763s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,12n,78p,1330b,765s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
-C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{C:
-/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/cm-super/sfbi1000.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/public/cm-super/sfsl1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/urw/bookman/ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bo
-okman/ubkl8a.pfb>
-Output written on The_Master.pdf (12 pages, 1969585 bytes).
+C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1000.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/bookman/ubkd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/
+bookman/ubkl8a.pfb>
+Output written on The_Master.pdf (13 pages, 1988121 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 44 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 60 words of extra memory for PDF output out of 10000 (max. 10000000)
 
